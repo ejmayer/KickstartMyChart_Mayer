@@ -1,2 +1,2 @@
 # KickStartMyChart_Mayer
-Kick Start My Chart Worksheets and Analysis
+Kickstart My Chart Worksheets and Analysis
